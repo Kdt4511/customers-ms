@@ -1,0 +1,6 @@
+Flask==2.3
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Cors
+python-dotenv
+PyMySQL
